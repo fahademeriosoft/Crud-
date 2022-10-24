@@ -8,7 +8,7 @@ function addEmploy() {
   } else {
     update(transfer);
     selectedtr = null;
-    $("#button").text('edit');
+  
     
   }
   reset();
